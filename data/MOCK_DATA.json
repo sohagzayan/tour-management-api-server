@@ -1,0 +1,10 @@
+[
+    {
+        "name" : "Deluxe Package",
+        "price" : 100,
+        "description" : "This is the deluxe package",
+        "view" : 100,
+        "status" : "available",
+        "image" : "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+    }
+]
